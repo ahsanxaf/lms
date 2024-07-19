@@ -1,0 +1,18 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Other files to ignore
+coverage/
+dist/
+build/
+*.log
+*.tmp
+*.orig
+*.old
+*.orig
+.DS_Store
+Thumbs.db
+desktop.ini
